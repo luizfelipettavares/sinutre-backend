@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+*.log
+.DS_Store
+package-lock.json
+
+# SQLite local
+*.db
+*.db-journal
